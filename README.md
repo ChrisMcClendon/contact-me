@@ -12,7 +12,7 @@ OTR Fingerprint: ```FD574349 AE4474EC BE669F2C 7AECD755 4C917942```
 ProtonMail: ```Chris.McClendon@protonmail.ch```
 
         -----BEGIN PGP PUBLIC KEY BLOCK-----
-        Version: OpenPGP.js v0.10.1-IE<br>
+        Version: OpenPGP.js v0.10.1-IE
         Comment: http://openpgpjs.org
 
         xsBNBFT7ad0BCADGIdcftYYBETzbzh1xEUkHOHBysXdxq5LB0uoyeLKTZBiR
@@ -42,7 +42,7 @@ ProtonMail: ```Chris.McClendon@protonmail.ch```
         IWG5OoztkcMRAEr3XUmFS1mSOk9Pyd0n5lYjr0oAANbTvOkOequK2hnmofat
         zRFjvkLtxRAZxXzDnWfCpnxtzChuEwzm+TU=
         =SCd5<br>
-        -----END PGP PUBLIC KEY BLOCK-----<br>
+        -----END PGP PUBLIC KEY BLOCK-----
  
 
 PGP: ```Chris@ChrisMcClendon.com```<br>
