@@ -4,7 +4,6 @@ Chris McClendon (as of 11/5/15)
 https://keybase.io/chrismcclendon
 
 Telegram: ```ChrisMcClendon```<br>
-Wickr: ```ChrisMcClendon```
 
 Jabber ID: ```ChrisMcClendon@jabber.calyxinstitute.org```<br>
 OTR Fingerprint: ```FD574349 AE4474EC BE669F2C 7AECD755 4C917942```
