@@ -1,12 +1,7 @@
 # contact-me
-Chris McClendon (as of 3/22/16)
+Chris McClendon (as of 11/20/16)
 
 https://keybase.io/chrismcclendon
-
-Telegram: ```ChrisMcClendon```<br>
-
-Jabber ID: ```ChrisMcClendon@jabber.calyxinstitute.org```<br>
-OTR Fingerprint: ```FD574349 AE4474EC BE669F2C 7AECD755 4C917942```
 
 ProtonMail: ```Chris.McClendon@protonmail.ch```
 
