@@ -3,41 +3,64 @@ Chris McClendon (as of 11/20/16)
 
 https://keybase.io/chrismcclendon
 
-ProtonMail: ```Chris.McClendon@protonmail.ch```
+ProtonMail: ```C@McClendon.tech```<br>
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v1.2.0
+Comment: http://openpgpjs.org
 
-        -----BEGIN PGP PUBLIC KEY BLOCK-----
-        Version: OpenPGP.js v0.10.1-IE
-        Comment: http://openpgpjs.org
-
-        xsBNBFT7ad0BCADGIdcftYYBETzbzh1xEUkHOHBysXdxq5LB0uoyeLKTZBiR
-        pukJTjRSzhzNJtAGL7uryYDMjHcgH9BYJ0USYN2ngY627SjHQ2gLF3WnbrTh
-        IT+2Hn59P+Pq+eHEc1rdjG0HFTm83p4G+wJve6duPag1f+yX5tlgtpKBFheV
-        5CAgXAZwFWDfu60O8vB/eFqEjMY3gQFi7TR9phKyVjsTgJQUuhp+7Fui4s10
-        31+qvOgornItyzbeUzCJ/E2BUPqDxRMsuZzcEx47sMtzUGdnQlV34/dlciVZ
-        mFMfDb6vXJtqIYTUfzzTD8CmRvB5rhLaCOKuYnSFiEZOqvrfP6v9pKajABEB
-        AAHNBlVzZXJJRMLAcgQQAQgAJgUCVPtp3QYLCQgHAwIJEJtA/mbQhF/EBBUI
-        AgoDFgIBAhsDAh4BAAAbpQf/ShCbfO3v4m3DOoTFibti5aqiqMoXSGO6UD4h
-        AelqxxtbbhGPpjmWmotrojvc/zfc9ek2hXAj8sG0myJ3iz92k/PdxrsKlZSi
-        Hf0103hxMzjLhDxHER1pPiMzLQ1aNtle6hicuLW2fGCztpDV0deVMzXCcC2Z
-        3DaefGLI68UK5CLH5FPTsUX+l9E/oAGa+gEZ7fZpgHepVioEsEJ7C4s0waGi
-        VoMA30wYlTPqduutHevocz1eBb8EqDF+wYMxTkiVAvqtKb0bA8zndgrNZeKP
-        pC/GdQaWAEYHH/4LhQooPIQYp6eLZ1rNo8XEjy4mNwFvMvQ6Iu8Gzm4Sid5d
-        FK4cRM7ATQRU+2ndAQgAwJ41hk6eZ24OiR9u0iewEfgZIvP/sD8JJrOp+kLD
-        d9G5iqkfNL9Vs+FvppX+JGhp1GS0H4TCnes+kU1dIfbL5/fED6TezWxsj1d4
-        FzHnzlotZX4o55FQ4XBAwbtGDRl7u+AjcZdTxEGo21l0xJFPqNtGOWdhV94J
-        kM1P/CuuYz+/d72/oUVlwhBEFdnvUVNH5ZQkQPe3CW+j9HYRm6fyflVJ8GN/
-        jHfAfjlBIrJ+K3KlSl+w1pjnw+O6yTS75+SriioS5H5NQqXRBSNQkStSgyGU
-        sN6jopkSueWnOj7YyNfMfu1WFZan0ZhNiU+0WFFuCNC2wB1L+O28BQmSdvD9
-        RQARAQABwsBfBBgBCAATBQJU+2ndCRCbQP5m0IRfxAIbDAAApboIAI5tlp+I
-        1Lw42wNz23vt7B2uRPw/n3Ej3LkyEqsXIjEOUMZ6u2+R9MdczxZ2PQKrpWHh
-        11K+tHh0ZNblTN1zWS0GzDSBKzoK8PBqpcT30ByCnXwWLtDqFvge9JXAKjcg
-        YgwSwFeeKBn/D0upUXz73icQOHCTd0I8DGlNIi0FTla1Q4aaQifIVOak/voO
-        sW1pRPD9KV2KybSumd7FIVkfbbvhROlLor1Q8jhxoW/R7ycMrWdn3pib1+4S
-        IWG5OoztkcMRAEr3XUmFS1mSOk9Pyd0n5lYjr0oAANbTvOkOequK2hnmofat
-        zRFjvkLtxRAZxXzDnWfCpnxtzChuEwzm+TU=
-        =SCd5<br>
-        -----END PGP PUBLIC KEY BLOCK-----
- 
+xsFNBFf0woYBEADRyR5X41Vd7AhQzMEGM9mVODtm3eGDuLvzuK3XJe/OH6UJ
+o9BMr7ZmQ69sx6XV8bQO2dCXmpqPQBCTNUDGJOhmQJ+JeRWvBxY2bVZQz8jA
+LANnlAu3CRn2Zqom4KhgcEHFt5UvIWYHxzAG1TQp65aBtCgNCjTNp4yOly7X
+fqmM0zqHjZhr5ITacfruqS2a2Fu43aL64EmbxWQTXkW/A0KUtuH35FJJ70d/
+R0KxTByezp22EVZRNzeorOoMJQZCkIPtFpPSqKY2HFKOzSIfl3DmZUtCJroj
+NsjEv51DuLjeWYXBpLarKY/r8yj18RKP2i5D4TVwYnyOUdHdDxvRq05BnnoX
+7Iu2sdrEarChskYKd2U0R2aaq+OpXB+Y7J00LeUFhL4IOcstHxcjaMyFgNPk
+LyjOblcfpTX91/tlUqMORBLdR2LzY3pEQUkZiLcLWytvQj5/JnaD2gjvKpyb
+kdSF3gGCn/qVBVSvjZm6sa/n4GZXif3Quo9tSI8/3iLuFm8Fp/f3MfCGWar4
+SN+INkSVsTL4VK5TGEdQy6pXJDrCmyjZe1WY0a3evArp/kUgiJzAn3FoJZBZ
+Kxb1C67YvxxW0pZcNNBhsUxgj780YrgfviSRlpw6cVxFcXd7FG2f7M/W2vnS
+uy5QIZ3naZgMyxJYohE7pTPMVDbl0x7FgPNOQwARAQABzRBjQG1jY2xlbmRv
+bi50ZWNowsFyBBABCAAmBQJX9MKJBgsJCAcDAgkQ1LKSifKNuCMEFQgCCgMW
+AgECGwMCHgEAAOg1EACCqUxPVlLfi9RX1tymbGYXo8vcnbMlYiW6Df7shTnu
+2yUvMT0t5FKdWT/85onzqhMFMDuCVZTaOLYuv28OaWqLL/5Ztywv43BNQo7L
+IJRQoX5QyTayoASZ7DZW0J2Aa7kC+ZfON0+SVOGNdJ5otq4MnW/Axd5MH9uf
+TJkOs5EVhOQ6rlp7xQhJfZM/wm/mpcaS7wO6+oSh0PY71CN0nqGqq0BLHrWs
+jJqfZqL2kIL6IwOCeYhMbuIURxHLsfY0ybcw3pXTLDtS3eJGhN+GiACrganw
+NEcnOJKbsci6iE45V54H1RdeF3C5nVKvavqNo8KjCft73QS9qh0Y54VKBz3e
+8x2+DWAEVgdnhErbKaJ9LbEIbUXfOR6gTgytEpFCLiIyIyTmqriqGlVm9OOL
+V9n53jDf472mrouaQYQTJcCCALmsEztam3b/pnQwdYXnT2tj9gWr3wQBFHTu
+2W38lpizFU4pO0bido6Dqo+mA4CGw14f2UqMOkHEDYLtZQqIXvcL3CkZNxvA
+FWNAaLHl/YYRWXtXdjZYdCWh8lRX/p6bowTy+cQvptd9ZSu5YtLTZDFdbUkM
+a3o9Y0dAMn+BO9Fhu2ixG8F6br36kQNtDDuRc0GjyWuVt91IiI3Muky/KWVz
+GqkNXcUx+ft+VoWfLsZDdQ48R63H9x4j9Lqg1C8x+M7BTQRX9MKGARAAqyKP
+1t5t6P3BmejMXsP0pf9L8w0pP/rholkkXBQOZqmWi61ixdRQv0PCgHETbGXt
+LZyBz+SCmGARn93fPrgjcn2tdAscpsvmmQhD4FJdKLQXHqqFLw0n5mq4WYku
+4gxqwT5oIFdSfVfd2WqH/kMQJ7otvKf0N8pUsMVFt+YAm5T3jOKomui9pf17
+sejV6DFhp+sh+q37m3ewoXCYcFOW5QMiwJPVYSPKyYLfdPzJl0Qm8ZdsxUKM
+8jOEnD8QR63CR5GOIKA52yJNoJTjXDHAQekHkpe270CVSsWhKfpynv4yw6xK
+HsGwKszYVIHXsYqWM2NOY3/UAWU6JgEgqPcBqkn8bGeRIrCGE7IhvwcRbhyi
+KaRywNrTlzJdVwu9qUUPD34xieoCx3hIc0hqS0ULLIWLywvKCwjZmuiWd93o
+8IlrDfPAOWFEF4a5j+A2aaLb0rXhgYmub5ivM1YUd3aGpUj0uhjjZrg9shaN
+KJoAuYimsxYRXmcqNLFXMHC78T4jCsSLA58YH1jKV+zSkICdCbL+rZlxqsaK
+JD7mYDzJkzwG2CS0BoIfmZLlAv/rsCO5jd3HrT6ve64bzs+uNQl/Curd1L7h
+V8pqbp4mIiWQAVYRCrqJPsYlkA54KkhRjm510uCLEbF2nwO7KnhcpXs3SNBd
+qDIJKLGhGKaa+26oAekAEQEAAcLBXwQYAQgAEwUCV/TCiwkQ1LKSifKNuCMC
+GwwAAMhbD/9d3VpW0AKYql84smHkTahptVtnDrKRmGjDNxXZq7G/OxK7EoIA
+EB0vymdxsL82lL7hIUHcDEGWBULJMLynaTsIM+8sJS85Vwr21C0HUuA/x0KW
+9fgJFZfhvSDs4FnQTlEGJOlUNU6It9ZaROwbKzkeui/H9XpWtMo6TmJ+thaV
+jeOrgRuRZMjXqe06uh8W8sJtwMrcezXaHu0+4TtkfdkiaVfmeKQNrkgT1caA
+mWGkVO3jvunHL0LwN4CiYKKIBePZmnL8PJyOsvukOyzAdjZp9/mxjSX9zqCz
+YzxSuKq7MJM6I+rnRs2rrlX7tga62ZAbfm1mMryyrReIVh+NtWDRbnN372NF
+YkG60lcGG23BnkrEvuOnzMyLMYFVWr45+DmZfarCnpHz7aO2V+ct1/aVufaz
+h1fxNCDcJN7y6LFhFklH94X4ppjXw5t/Lza50YDY67RspxrU1k8ogq+C8dNW
+ED7qIbeDosxdSR8VsXKx8j5uAgI1kcnHcxdpKwgIpV4rUySbUzpLC4U8DkyE
+/OWZj3fO3Pucqzjv1ZE3b/bFwq9/ZNGjsliz7h3DqyImsm2R2z6Y5QHsYHKP
+UlcrkDzTCLbCNEpSeNSnaJZ/tqvPtW1j1cqTY/YB6gtfTX72VVN6k5MQuiix
+qxe2jgEjfSUNY2dDRuahaLGZHbgGMAoz/g==
+=hT1H
+-----END PGP PUBLIC KEY BLOCK-----```
+``` 
 
 PGP: ```Chris@ChrisMcClendon.com```<br>
 PGP Key ID: ```0xD9244FD1```<br>
