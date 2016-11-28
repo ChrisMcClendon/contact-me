@@ -59,8 +59,8 @@ ED7qIbeDosxdSR8VsXKx8j5uAgI1kcnHcxdpKwgIpV4rUySbUzpLC4U8DkyE
 UlcrkDzTCLbCNEpSeNSnaJZ/tqvPtW1j1cqTY/YB6gtfTX72VVN6k5MQuiix
 qxe2jgEjfSUNY2dDRuahaLGZHbgGMAoz/g==
 =hT1H
------END PGP PUBLIC KEY BLOCK-----```
-``` 
+-----END PGP PUBLIC KEY BLOCK-----
+``` <br>
 
 PGP: ```Chris@ChrisMcClendon.com```<br>
 PGP Key ID: ```0xD9244FD1```<br>
