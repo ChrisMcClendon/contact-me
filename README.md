@@ -6,7 +6,7 @@ https://keybase.io/chrismcclendon
 PGP: ```Chris@ChrisMcClendon.com```<br>
 PGP Key ID: ```F9FE47B9```<br>
 PGP Fingerprint: ```1379 CF02 E61F C8F3 5CF9 1C24 B875 CF04 F9FE 47B9```<br>
-
+```
         -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -81,4 +81,5 @@ Nx4rxFUYMspdKhpD7NkyvNI1XNEGSNk1Pj7/41rAvV9ug9kEKvET1e3LEvwAJwui
 PZeDKPC0YkkwzD0E5POqVOXyFCtxvOxFJ9oRQw==
 =nXkF
 -----END PGP PUBLIC KEY BLOCK-----
+```
 
