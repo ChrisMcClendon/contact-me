@@ -2,7 +2,7 @@
 Chris McClendon (as of 8/9/18)
 
 [Primary]<br>
-PGP: ```C@Mcclendon.tech```<br>
+PGP: ```C@McClendon.tech```<br>
 PGP Key ID: ```f28db823```<br>
 PGP Fingerprint: ```7d1297a74ac7275c74a2ef2bd4b29289f28db823```<br>
 ```
