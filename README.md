@@ -1,9 +1,8 @@
 # contact-me
-Chris McClendon (as of 9/19/19)
+Chris McClendon (as of 10/16/19)
 
 [Primary]<br>
 PGP: ```C@McClendon.tech```<br>
-PGP Key ID: ```f28db823```<br>
 PGP Fingerprint: ```956f2786a8bf8328eb1f8e6d985c2add6e982fd3```<br>
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
