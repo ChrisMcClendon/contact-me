@@ -1,5 +1,5 @@
 # contact-me
-Chris McClendon (as of 10/16/19)
+Chris McClendon (as of 12/6/19)
 
 [Primary]<br>
 PGP: ```C@McClendon.tech```<br>
